@@ -3,12 +3,19 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/D:/New%20folder/webdea/web/index_1.html</file>
-            <file>file:/D:/New%20folder/webdea/web/display.jsp</file>
-            <file>file:/D:/New%20folder/webdea/web/pricing.html</file>
-            <file>file:/D:/New%20folder/webdea/web/contact.html</file>
-            <file>file:/D:/New%20folder/webdea/web/destination.html</file>
-            <file>file:/D:/New%20folder/webdea/web/login.jsp</file>
+            <file>file:/C:/Users/kavin/OneDrive/Documents/GitHub/dea/web/pricing.html</file>
+            <file>file:/C:/Users/kavin/OneDrive/Documents/GitHub/dea/src/java/servlets/booking.java</file>
+            <file>file:/C:/Users/kavin/OneDrive/Documents/GitHub/dea/web/home.html</file>
+            <file>file:/C:/Users/kavin/OneDrive/Documents/GitHub/dea/web/contact.html</file>
+            <file>file:/C:/Users/kavin/OneDrive/Documents/GitHub/dea/src/java/servlets/loginservlet.java</file>
+            <file>file:/C:/Users/kavin/OneDrive/Documents/GitHub/dea/src/java/servlets/signup.java</file>
+            <file>file:/C:/Users/kavin/OneDrive/Documents/GitHub/dea/web/display.jsp</file>
+            <file>file:/C:/Users/kavin/OneDrive/Documents/GitHub/dea/web/login.jsp</file>
+            <file>file:/C:/Users/kavin/OneDrive/Documents/GitHub/dea/web/signIn.html</file>
+            <file>file:/C:/Users/kavin/OneDrive/Documents/GitHub/dea/web/mybooking.jsp</file>
+            <file>file:/C:/Users/kavin/OneDrive/Documents/GitHub/dea/web/index.html</file>
+            <file>file:/C:/Users/kavin/OneDrive/Documents/GitHub/dea/src/java/servlets/contact.java</file>
+            <file>file:/C:/Users/kavin/OneDrive/Documents/GitHub/dea/src/java/databases/bookingdbcon.java</file>
         </group>
     </open-files>
 </project-private>
