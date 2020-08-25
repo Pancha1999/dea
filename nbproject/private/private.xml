@@ -3,6 +3,7 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
+<<<<<<< HEAD
             <file>file:/C:/Users/kavin/OneDrive/Documents/GitHub/dea/web/pricing.html</file>
             <file>file:/C:/Users/kavin/OneDrive/Documents/GitHub/dea/src/java/servlets/booking.java</file>
             <file>file:/C:/Users/kavin/OneDrive/Documents/GitHub/dea/web/home.html</file>
@@ -16,6 +17,13 @@
             <file>file:/C:/Users/kavin/OneDrive/Documents/GitHub/dea/web/index.html</file>
             <file>file:/C:/Users/kavin/OneDrive/Documents/GitHub/dea/src/java/servlets/contact.java</file>
             <file>file:/C:/Users/kavin/OneDrive/Documents/GitHub/dea/src/java/databases/bookingdbcon.java</file>
+=======
+            <file>file:/C:/Users/ASUS/Documents/GitHub/dea/src/java/databases/signupdbcon.java</file>
+            <file>file:/C:/Users/ASUS/Documents/GitHub/dea/src/java/databases/contactdbcon.java</file>
+            <file>file:/C:/Users/ASUS/Documents/GitHub/dea/src/java/databases/bookingdbcon.java</file>
+            <file>file:/C:/Users/ASUS/Documents/GitHub/dea/nbproject/build-impl.xml</file>
+            <file>file:/C:/Users/ASUS/Documents/GitHub/dea/src/java/servlets/signup.java</file>
+>>>>>>> b54a811f051edf839ed8d08c7195680610ededa9
         </group>
     </open-files>
 </project-private>
