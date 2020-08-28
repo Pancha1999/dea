@@ -5,7 +5,7 @@
  */
 package servlets;
 
-import databases.signupdbcon;
+import databases.bookingdbcon;
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.sql.Connection;
@@ -83,7 +83,7 @@ public class signup extends HttpServlet {
             
             if (password.equals(repassword)) {
 
-                signupdbcon obj_DB_Connection = new signupdbcon();
+                bookingdbcon obj_DB_Connection = new bookingdbcon();
                 Connection connection = obj_DB_Connection.get_connection();
                 PreparedStatement ps = null;
 

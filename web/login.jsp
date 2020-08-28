@@ -70,7 +70,7 @@
 			
 			<div class="row">
 				<div class="col-sm-4 col-xs-12">
-					<div id="gtco-logo"><a href="home.html">Traveler <em>.</em></a></div>
+					<div id="gtco-logo"><a href="index.html">Traveler <em>.</em></a></div>
 				</div>
 				<div class="col-xs-8 text-right menu-1">
 					<ul>
@@ -128,6 +128,7 @@
 													<div class="col-md-12">
 														<input type="submit" class="btn btn-primary btn-block" value="LOGIN">
 													</div>
+                                                                                                    <a href="signIn.html">Don't have an account?</a>
 												</div>
 											</form>	
 										</div>
@@ -159,7 +160,7 @@
 			<div class="row">
 
 				<div class="col-lg-4 col-md-4 col-sm-6">
-					<a href="images/large-03-sigiriya-rock-1586075801095.jpg" class="fh5co-card-item image-popup">
+					<a href="login.jsp" class="fh5co-card-item image-popup">
 						<figure>
 							<div class="overlay"><i class="ti-plus"></i></div>
 							<img src="images/large-03-sigiriya-rock-1586075801095.jpg" alt="Image" class="img-responsive">
@@ -172,7 +173,7 @@
 					</a>
 				</div>
 				<div class="col-lg-4 col-md-4 col-sm-6">
-					<a href="images/715a3853e4283368db0dafc45ef2bca5.jpg" class="fh5co-card-item image-popup">
+					<a href="login.jsp" class="fh5co-card-item image-popup">
 						<figure>
 							<div class="overlay"><i class="ti-plus"></i></div>
 							<img src="images/715a3853e4283368db0dafc45ef2bca5.jpg" alt="Image" class="img-responsive">
@@ -185,7 +186,7 @@
 					</a>
 				</div>
 				<div class="col-lg-4 col-md-4 col-sm-6">
-					<a href="images/Coconut_Farm_in_Mirissa.jpg" class="fh5co-card-item image-popup">
+					<a href="login.jsp" class="fh5co-card-item image-popup">
 						<figure>
 							<div class="overlay"><i class="ti-plus"></i></div>
 							<img src="images/Coconut_Farm_in_Mirissa.jpg" alt="Image" class="img-responsive">
@@ -200,7 +201,7 @@
 
 
 				<div class="col-lg-4 col-md-4 col-sm-6">
-					<a href="images/Galle-Travel-Guide.jpg" class="fh5co-card-item image-popup">
+					<a href="login.jsp" class="fh5co-card-item image-popup">
 						<figure>
 							<div class="overlay"><i class="ti-plus"></i></div>
 							<img src="images/Galle-Travel-Guide.jpg" alt="Image" class="img-responsive">
@@ -214,7 +215,7 @@
 				</div>
 
 				<div class="col-lg-4 col-md-4 col-sm-6">
-					<a href="images/Yyala-pimg1.jpg" class="fh5co-card-item image-popup">
+					<a href="login.jsp" class="fh5co-card-item image-popup">
 						<figure>
 							<div class="overlay"><i class="ti-plus"></i></div>
 							<img src="images/yala-pimg1.jpg" alt="Image" class="img-responsive">
@@ -229,7 +230,7 @@
 				</div>
 
 				<div class="col-lg-4 col-md-4 col-sm-6">
-					<a href="images/Things-To-Do-in-Arugam-Bay.jpg.optimal.jpg" class="fh5co-card-item image-popup">
+					<a href="login.jsp" class="fh5co-card-item image-popup">
 						<figure>
 							<div class="overlay"><i class="ti-plus"></i></div>
 							<img src="images/Things-To-Do-in-Arugam-Bay.jpg.optimal.jpg" alt="Image" class="img-responsive">
@@ -401,8 +402,8 @@
 	<script src="js/jquery.stellar.min.js"></script>
 
 	<!-- Magnific Popup -->
-	<script src="js/jquery.magnific-popup.min.js"></script>
-	<script src="js/magnific-popup-options.js"></script>
+	<!--<scr        ipt src="js/jquery.magnific-popup.min.js"></script>-->
+	<!--<script src="js/magnific-popup-options.js"></script>-->
 	
 	<!-- Datepicker -->
 	<script src="js/bootstrap-datepicker.min.js"></script>
